@@ -10,11 +10,11 @@ export default function Footer() {
           <div className="md:col-span-2">
             <h3 className="text-lg font-black mb-4">DAPPER</h3>
             <div className="text-[11px] text-gray-500 space-y-0.5 leading-relaxed">
-              <p>상호: 멘샵 | 대표: 김민수</p>
-              <p>사업자등록번호: 123-45-67890 <button className="underline ml-1">사업자정보확인</button></p>
-              <p>통신판매업신고: 제2026-서울강남-00000호</p>
-              <p>주소: 서울특별시 강남구 테헤란로 123, 5층</p>
-              <p>개인정보보호책임자: 박정훈</p>
+              <p>상호: Boldgrit | 대표: 이진혁</p>
+              <p>사업자등록번호: 405-52-01130 <button className="underline ml-1">사업자정보확인</button></p>
+              <p>통신판매업신고: 제2026-서울성동-0477호</p>
+              <p>주소: 서울 송정동 73-950</p>
+              <p>개인정보보호책임자: 이진혁</p>
             </div>
           </div>
 
